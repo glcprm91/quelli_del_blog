@@ -1,5 +1,5 @@
 ---
-title: L'emergenza di parlarne
+title: Ep.1 - L'emergenza di parlarne
 date: 2020-01-26
 lunghezza: 27
 hero: "/images/hero-2.jpg"

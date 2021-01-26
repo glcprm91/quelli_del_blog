@@ -27,7 +27,7 @@ authors:
 {{< spreaker "https://www.spreaker.com/episode/43116102" "https://open.spotify.com/episode/7c65K5vluO2qXLOjwn1ldT?si=7Vu7taK5RniIv4dv7gwVkg" >}}
 
 \
-È il sabato mattina di un 23 gennaio e così abbiamo registrato il nostro primo episodio di questa nuova avventura, come se fosse il _pilot_ di una serie-tv. Abbiamo deciso di affrontare per primo il tema più scomodo e forse più ostico: Ortona è una delle città che più sta soffrendo. Dall'ultima analisi ASL la nostra è la città più colpita sul territorio: **3,1** abitanti su 100 hanno contratto il virus, la media Abruzzese è **1,9**.
+È il sabato mattina di un 23 gennaio e così abbiamo registrato il nostro primo episodio di questa nuova avventura, come se fosse il _pilot_ di una serie-tv. Abbiamo deciso di affrontare per primo il tema più scomodo e forse più ostico: l'emergenza Covid. Ortona è una delle città che più sta soffrendo. Dall'ultima analisi ASL la nostra è la città più colpita sul territorio: **3,1** abitanti su 100 hanno contratto il virus, la media Abruzzese è **1,9**.
 
 Sabato e domenica prossimi (**30-31 gennaio**) si terrà ad Ortona lo screening di massa per cercare di individuare quanti più asintomatici possibili. A questo si aggiunge la campagna vaccinale che dovrà cominciare a brevissimo, o forse no. Pfizer ha annunciato che ci sarà in Italia il **29% di dosi in meno**, un mese di ritardo stimato sulla tabella di marcia.
 

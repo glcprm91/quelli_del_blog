@@ -1,0 +1,6 @@
+baseURL: "https://example.com"
+languageCode: "en-us"
+title: "quelli_del_blog"
+pygmentsstyle: 'monokai'
+taxonomies:
+  author: authors

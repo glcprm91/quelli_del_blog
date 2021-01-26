@@ -1,8 +1,8 @@
 ---
 title: Ep.1 - L'emergenza di parlarne
-date: 2020-01-26
+date: 2021-01-26
 lunghezza: 27
-hero: "/images/hero-2.jpg"
+hero: "/images/mascherina david.jpg"
 excerpt: Prova prova. Mi sentite? Ci siete? Ma che fa questo pulsante? Ah ora mi sentite! Ok.
 authors:
   - Hugo Authors

@@ -8,7 +8,7 @@ authors:
   - quelli_del_blog
 ---
 
-"Mi senti?" Probabilmente la frase più detta nell'anno passato. Ma ora siamo nel 2021, e qui si comincia a registrare.
+"Mi senti?" - Probabilmente la frase più detta nell'anno passato. Ma ora siamo nel 2021, e qui si comincia a registrare.
 
 <!--more-->
 
@@ -18,9 +18,9 @@ authors:
 
 "Per forza"
 
-"Ma ne parlano già tutti..."
+"Ma ne parlano già tutti a Ortona..."
 
-"Ne scrivono, noi ne parliamo"
+"Ne scrivono, noi ora ne parliamo"
 
 ## Play/Pause
 

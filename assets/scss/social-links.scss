@@ -44,6 +44,9 @@
 
 .social-icon-container:first-of-type {
     margin-left: 0;
+    @media screen and (max-width: $phablet ){
+    margin-left: 22px;
+}
 }
 
 .social-icon-container:last-child {

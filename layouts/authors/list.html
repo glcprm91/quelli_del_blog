@@ -3,10 +3,13 @@
     <section>
         {{ partial "author/hero.html" . }}
         {{ partial "author/articles_list.html" . }}
+        <p>Puoi usare questi moduli qui in basso per scrivere un'idea, un suggerimento, una proposta o semplicemente per
+            dirci la tua opinione su qualcosa che hai ascoltato. Se poi vuoi, puoi mandarci un audio sulla nostra
+            pagina Instagram</p>
         <form name="contattaci" netlify>
-            <input name="name" type="text" class="feedback-input" placeholder="Nome" />
-            <input name="email" type="text" class="feedback-input" placeholder="Email" />
-            <textarea name="text" class="feedback-input" placeholder="Messaggio"></textarea>
+            <input name="name" type="text" class="feedback-input" placeholder="Nome" required />
+            <input name="email" type="email" class="feedback-input" placeholder="Email" required />
+            <textarea name="text" class="feedback-input" placeholder="Messaggio" required></textarea>
             <input type="submit" value="INVIA" />
         </form>
     </section>

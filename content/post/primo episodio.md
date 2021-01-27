@@ -41,9 +41,7 @@ e una speranza: si torna gialli a breve. Ma che colore siamo oggi?
 - [Link al portale](https://sanitaonline.regione.abruzzo.it/portaleservizi/#/portaleservizisanitari/dettagliovaccini) per prenotarsi ai vaccini.
 
 
-- I numeri telefonici della ASL per le prenotazioni dei vaccini. Saranno in funzione dal lunedì al venerdì, dalle ore 9 alle ore 13 e dalle ore 15 alle ore 17.
-
-- **085 9218691** - **085 9218692** - **085 9218693**
+- I numeri telefonici della ASL per le prenotazioni dei vaccini. Saranno in funzione dal lunedì al venerdì, dalle ore 9 alle ore 13 e dalle ore 15 alle ore 17: **085 9218691** - **085 9218692** - **085 9218693**
 
 - Anche gli Urp delle Asl regionali forniranno assistenza ai cittadini:
   Asl 1 (provincia dell’Aquila) tel. 0862 368685 – 0863 499943 – 0864 499455 – acerone@asl1abruzzo.it;

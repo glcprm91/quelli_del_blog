@@ -14,7 +14,7 @@ authors:
 
 ## Si ma di cosa parliamo quindi?
 
-"Eh purtroppo di covid Gianlu" - "Ma una puntata intera?"
+"Eh purtroppo di Covid" - "Ma un episodio intero?"
 
 "Per forza"
 
@@ -27,16 +27,19 @@ authors:
 {{< spreaker "https://www.spreaker.com/episode/43116102" "https://open.spotify.com/episode/7c65K5vluO2qXLOjwn1ldT?si=7Vu7taK5RniIv4dv7gwVkg" >}}
 
 \
-È il sabato mattina di un 23 gennaio e così abbiamo registrato il nostro primo episodio di questa nuova avventura, come se fosse il _pilot_ di una serie-tv. Abbiamo deciso di affrontare per primo il tema più scomodo e forse più ostico: l'emergenza Covid. Ortona è una delle città che più sta soffrendo. Dall'ultima analisi ASL la nostra è la città più colpita sul territorio: **3,1** abitanti su 100 hanno contratto il virus, la media Abruzzese è **1,9**.
+Ortona, sabato mattina, 23 gennaio. Registriamo il primo episodio di questa nuova avventura, come se fosse il _pilot_ di una serie-tv. Decidiamo di affrontare per primo il tema più scomodo e forse più pesante: l'emergenza Covid. Ortona è una delle città che più ne sta soffrendo nella nostra Regione. Qui **3,1** abitanti su 100 hanno contratto il virus, la media Abruzzese è **1,9**.
 
-Sabato e domenica prossimi (**30-31 gennaio**) si terrà ad Ortona lo screening di massa per cercare di individuare quanti più asintomatici possibili. A questo si aggiunge la campagna vaccinale che dovrà cominciare a brevissimo, o forse no. Pfizer ha annunciato che ci sarà in Italia il **29% di dosi in meno**, un mese di ritardo stimato sulla tabella di marcia.
+Sabato e domenica prossimi (**30-31 gennaio**) ad Ortona si terrà lo screening di massa per capire se e quanti asintomatici ci sono sul territorio. A questo si aggiunge la campagna vaccinale che dovrà cominciare a brevissimo, o forse no. Pfizer ha annunciato che ci saranno in Italia il **29% di dosi in meno**, un mese di ritardo stimato sulla tabella di marcia.
 
 E poi c'è la questione tra sensibilità e specificità dei test. Che cosa vogliono dire?
 
 La variante inglese individuata a Guardiagrele, tradizioni di uccisioni di maiali
-e si chiude con una speranza: forse si torna gialli a breve. Ma che colore siamo oggi?
+e una speranza: si torna gialli a breve. Ma che colore siamo oggi?
 
 ### Alcune info utili:
+
+- [Link al portale](https://sanitaonline.regione.abruzzo.it/portaleservizi/#/portaleservizisanitari/dettagliovaccini) per prenotarsi ai vaccini.
+
 
 - I numeri telefonici della ASL per le prenotazioni dei vaccini. Saranno in funzione dal lunedì al venerdì, dalle ore 9 alle ore 13 e dalle ore 15 alle ore 17.
 
@@ -50,4 +53,4 @@ e si chiude con una speranza: forse si torna gialli a breve. Ma che colore siamo
 
 - La relazione della ASL Lanciano - Vasto - Chieti [aggiornata al 23 gennaio, giorno della registrazione](http://lnx.asl2abruzzo.it/asl/attachments/article/575/210123-asl2abruzzo_covid19_relazione-settimanale.pdf)
 
-- I moduli [consenso](https://www.comuneortona.ch.it/spider/files/ad2882f6-0c59-424f-9dd3-c7f878f6f16e/MODULO%20CONSENSO.pdf) e [privacy](https://www.comuneortona.ch.it/spider/files/3c323c73-66b3-4173-aafb-a834a01e1147/INFORMATIVA%20TRATTAMENTO%20DATI.pdf) da consegnare compilati per lo screening di massa ad Ortona
+- I moduli [consenso](https://www.comuneortona.ch.it/spider/files/ad2882f6-0c59-424f-9dd3-c7f878f6f16e/MODULO%20CONSENSO.pdf) e [privacy](https://www.comuneortona.ch.it/spider/files/3c323c73-66b3-4173-aafb-a834a01e1147/INFORMATIVA%20TRATTAMENTO%20DATI.pdf) da consegnare compilati per lo screening di massa ad Ortona.

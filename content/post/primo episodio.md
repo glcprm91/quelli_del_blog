@@ -5,7 +5,7 @@ lunghezza: 27
 hero: "/images/mascherina david.jpg"
 excerpt: Prova prova. Mi sentite? Ci siete? Ma che fa questo pulsante? Ah ora mi sentite! Ok.
 authors:
-  - Hugo Authors
+  - quelli_del_blog
 ---
 
 "Mi senti?" Probabilmente la frase più detta nell'anno passato. Ma ora siamo nel 2021, e qui si comincia a registrare.

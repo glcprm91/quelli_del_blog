@@ -3,6 +3,12 @@
     <section>
         {{ partial "author/hero.html" . }}
         {{ partial "author/articles_list.html" . }}
+        <form name="contattaci" netlify>
+            <input name="name" type="text" class="feedback-input" placeholder="Nome" />
+            <input name="email" type="text" class="feedback-input" placeholder="Email" />
+            <textarea name="text" class="feedback-input" placeholder="Messaggio"></textarea>
+            <input type="submit" value="INVIA" />
+        </form>
     </section>
     <div class="authors-gradient"></div>
 </section>

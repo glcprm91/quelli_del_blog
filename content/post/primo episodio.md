@@ -1,6 +1,6 @@
 ---
 title: Ep.1 - L'emergenza di parlarne
-date: 2021-01-26
+date: 2021-01-28
 lunghezza: 27
 hero: "/images/mascherina david.jpg"
 excerpt: Prova prova. Mi sentite? Ci siete? Ma che fa questo pulsante? Ah ora mi sentite! Ok.

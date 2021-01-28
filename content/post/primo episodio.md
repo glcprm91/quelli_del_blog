@@ -12,7 +12,7 @@ authors:
 
 <!--more-->
 
-## Si ma di cosa parliamo quindi?
+## Sì ma di cosa parliamo, quindi?
 
 "Eh purtroppo di Covid" - "Ma un episodio intero?"
 

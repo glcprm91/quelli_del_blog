@@ -1,6 +1,6 @@
 ---
 title: Ep.2 - Un episodio "bomba"
-date: 2021-02-06
+date: 2021-02-09
 lunghezza: 35
 hero: "/images/Bomba_niko.jpg"
 excerpt: “Volevo scriverti una breve lettera, ma non ho avuto tempo, e quindi te ne scrivo una più lunga.”

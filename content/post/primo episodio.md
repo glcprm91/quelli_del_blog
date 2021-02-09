@@ -24,7 +24,7 @@ authors:
 
 ## Play/Pause
 
-{{< spreaker "https://www.spreaker.com/episode/43116102" "https://open.spotify.com/episode/7c65K5vluO2qXLOjwn1ldT?si=7Vu7taK5RniIv4dv7gwVkg" >}}
+{{< spreaker "https://www.spreaker.com/episode/43116102"  "episode_id=43116102" "Ascolta Ep.1 - L'emergenza di parlarne su Spreaker." "https://open.spotify.com/show/7EtEpSn3lajSeJkIRSKI6z" >}}
 
 \
 Ortona, sabato mattina, 23 gennaio. Registriamo il primo episodio di questa nuova avventura, come se fosse il _pilot_ di una serie-tv. Decidiamo di affrontare per primo il tema più scomodo e forse più pesante: l'emergenza Covid. Ortona è una delle città che più ne sta soffrendo nella nostra Regione. Qui **3,1** abitanti su 100 hanno contratto il virus, la media Abruzzese è **1,9**.

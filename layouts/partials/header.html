@@ -30,3 +30,6 @@
 
 {{ $script := resources.Get "js/copyUrl.js" }}
 <script src="{{ $script.RelPermalink }}"></script>
+
+{{ $script := resources.Get "js/roughNotation.js" }}
+<script src="{{ $script.RelPermalink }}" type="module"></script>

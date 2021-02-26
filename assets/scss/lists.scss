@@ -9,7 +9,7 @@ ul{
     transition: var(--color-mode-transition);
     margin: 0 auto;
     font-size: 18px;
-  
+
     width: 100%;
     max-width: 680px;
 }
@@ -55,7 +55,7 @@ li{
 /*PHABLET*/
 @media screen and (max-width: 540px){
     ul li{
-        padding-left: 30px;
+        padding-left: 1px;
     }
 }
 
@@ -81,6 +81,7 @@ ul li::before{
 @media screen and (max-width: 735px){
     ul li::before{
         left: 0;
+        top: 11px;
     }
 }
 

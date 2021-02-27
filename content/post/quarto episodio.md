@@ -2,7 +2,7 @@
 title: Ep.4 - C'è un nuovo super-eroe ad Ortona!
 date: 2021-02-27
 lunghezza: 25
-hero: "/images/giustino copertina.png"
+hero: "/images/giustino copertina (Small).png"
 excerpt: “Si chiama Giustino Carchesio e nel tempo libero cerca di far ricordare alle persone com'è che si fa a non smettere di inseguire i propri sogni”
 authors:
   - quelli_del_blog

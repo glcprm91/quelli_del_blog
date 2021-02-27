@@ -2,7 +2,7 @@
 title: Ep.4 - C'è un nuovo super-eroe ad Ortona!
 date: 2021-02-27
 lunghezza: 25
-hero: "/images/giustino-copertina.webp"
+hero: "/images/giustino copertina.png"
 excerpt: “Si chiama Giustino Carchesio e nel tempo libero cerca di far ricordare alle persone com'è che si fa a non smettere di inseguire i propri sogni”
 authors:
   - quelli_del_blog
@@ -19,7 +19,6 @@ Lui si chiama Giustino Carchesio e nel tempo libero cerca di far ricordare alle 
 ## Play/Pause
 
 {{< spreaker "https://www.spreaker.com/episode/43662991"  "episode_id=43662991" "Ascolta Ep.4 - C'è un nuovo super-eroe ad Ortona!" "https://open.spotify.com/show/7EtEpSn3lajSeJkIRSKI6z" >}}
-
 
 ## Un super-potere neanche troppo nascosto...
 

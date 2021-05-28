@@ -1,5 +1,5 @@
 ---
-title: Ep.9 - Un luogo ltro
+title: Ep.9 - Un luogo altro
 date: 2021-05-28
 lunghezza: 35
 hero: "/images/donne copertina.jpeg"

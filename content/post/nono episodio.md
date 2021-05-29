@@ -32,7 +32,7 @@ Sara ci ha spiegato come la violenza contro le donne sia un fenomeno culturale t
 
 ## Dati alla mano
 
-Secondo i dati ISTAT, una donna su tre tra i 16 e 70 anni almeno una volta nella vita ha subito violenza. Nella nostra città invece, la media annuale di donne che il centro Donn.è segue, è di trenta l’anno, di età tra i 20 e 60 anni.
+Secondo i dati ISTAT, una donna su tre fra i 16 e 70 anni almeno una volta nella vita ha subito violenza. Nella nostra città invece, la media annuale di donne che il centro Donn.è segue, è di trenta l’anno, di età tra i 20 e 60 anni.
 
 ### Per saperne di più su Donn.è
 
